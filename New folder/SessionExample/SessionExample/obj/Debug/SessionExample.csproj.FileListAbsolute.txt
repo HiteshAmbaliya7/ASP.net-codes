@@ -1,0 +1,5 @@
+D:\BCA-5(A)\SessionExample\SessionExample\bin\SessionExample.dll
+D:\BCA-5(A)\SessionExample\SessionExample\bin\SessionExample.pdb
+D:\BCA-5(A)\SessionExample\SessionExample\obj\Debug\SessionExample.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\SessionExample\SessionExample\obj\Debug\SessionExample.dll
+D:\BCA-5(A)\SessionExample\SessionExample\obj\Debug\SessionExample.pdb

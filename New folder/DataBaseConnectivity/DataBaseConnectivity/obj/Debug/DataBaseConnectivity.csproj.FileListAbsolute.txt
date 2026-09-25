@@ -1,0 +1,5 @@
+D:\BCA-5(A)\DataBaseConnectivity\DataBaseConnectivity\bin\DataBaseConnectivity.dll
+D:\BCA-5(A)\DataBaseConnectivity\DataBaseConnectivity\bin\DataBaseConnectivity.pdb
+D:\BCA-5(A)\DataBaseConnectivity\DataBaseConnectivity\obj\Debug\DataBaseConnectivity.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\DataBaseConnectivity\DataBaseConnectivity\obj\Debug\DataBaseConnectivity.dll
+D:\BCA-5(A)\DataBaseConnectivity\DataBaseConnectivity\obj\Debug\DataBaseConnectivity.pdb

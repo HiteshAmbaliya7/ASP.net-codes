@@ -1,0 +1,5 @@
+D:\BCA-5(A)\MenuControl\MenuControl\bin\MenuControl.dll
+D:\BCA-5(A)\MenuControl\MenuControl\bin\MenuControl.pdb
+D:\BCA-5(A)\MenuControl\MenuControl\obj\Debug\MenuControl.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\MenuControl\MenuControl\obj\Debug\MenuControl.dll
+D:\BCA-5(A)\MenuControl\MenuControl\obj\Debug\MenuControl.pdb

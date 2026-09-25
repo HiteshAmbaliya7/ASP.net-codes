@@ -1,0 +1,5 @@
+D:\BCA-5(A)\AdrotetorControl\AdrotetorControl\bin\AdrotetorControl.dll
+D:\BCA-5(A)\AdrotetorControl\AdrotetorControl\bin\AdrotetorControl.pdb
+D:\BCA-5(A)\AdrotetorControl\AdrotetorControl\obj\Debug\AdrotetorControl.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\AdrotetorControl\AdrotetorControl\obj\Debug\AdrotetorControl.dll
+D:\BCA-5(A)\AdrotetorControl\AdrotetorControl\obj\Debug\AdrotetorControl.pdb

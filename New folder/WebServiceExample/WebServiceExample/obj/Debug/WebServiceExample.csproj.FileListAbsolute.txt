@@ -1,0 +1,5 @@
+D:\BCA-5(A)\WebServiceExample\WebServiceExample\bin\WebServiceExample.dll
+D:\BCA-5(A)\WebServiceExample\WebServiceExample\bin\WebServiceExample.pdb
+D:\BCA-5(A)\WebServiceExample\WebServiceExample\obj\Debug\WebServiceExample.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\WebServiceExample\WebServiceExample\obj\Debug\WebServiceExample.dll
+D:\BCA-5(A)\WebServiceExample\WebServiceExample\obj\Debug\WebServiceExample.pdb

@@ -1,0 +1,5 @@
+D:\BCA-5(A)\ReadandWriteXML\ReadandWriteXML\bin\ReadandWriteXML.dll
+D:\BCA-5(A)\ReadandWriteXML\ReadandWriteXML\bin\ReadandWriteXML.pdb
+D:\BCA-5(A)\ReadandWriteXML\ReadandWriteXML\obj\Debug\ReadandWriteXML.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\ReadandWriteXML\ReadandWriteXML\obj\Debug\ReadandWriteXML.dll
+D:\BCA-5(A)\ReadandWriteXML\ReadandWriteXML\obj\Debug\ReadandWriteXML.pdb

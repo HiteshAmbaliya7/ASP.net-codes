@@ -1,0 +1,5 @@
+D:\BCA-5(A)\LabelControl\LabelControl\bin\LabelControl.dll
+D:\BCA-5(A)\LabelControl\LabelControl\bin\LabelControl.pdb
+D:\BCA-5(A)\LabelControl\LabelControl\obj\Debug\LabelControl.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\LabelControl\LabelControl\obj\Debug\LabelControl.dll
+D:\BCA-5(A)\LabelControl\LabelControl\obj\Debug\LabelControl.pdb

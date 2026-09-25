@@ -1,0 +1,4 @@
+D:\BCA-5(A)\changecolorwithoutpostback\changecolorwithoutpostback\bin\changecolorwithoutpostback.dll
+D:\BCA-5(A)\changecolorwithoutpostback\changecolorwithoutpostback\bin\changecolorwithoutpostback.pdb
+D:\BCA-5(A)\changecolorwithoutpostback\changecolorwithoutpostback\obj\Debug\changecolorwithoutpostback.dll
+D:\BCA-5(A)\changecolorwithoutpostback\changecolorwithoutpostback\obj\Debug\changecolorwithoutpostback.pdb

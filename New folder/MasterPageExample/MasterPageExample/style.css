@@ -1,0 +1,10 @@
+﻿body {
+    background-color:azure;
+}
+.test {
+    color:red;
+    text-decoration:underline;
+    font-family:Arial;
+    font-size:x-large;
+    text-decoration-style:solid;
+}

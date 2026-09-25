@@ -1,0 +1,5 @@
+D:\BCA-5(A)\ImageMapControl\ImageMapControl\bin\ImageMapControl.dll
+D:\BCA-5(A)\ImageMapControl\ImageMapControl\bin\ImageMapControl.pdb
+D:\BCA-5(A)\ImageMapControl\ImageMapControl\obj\Debug\ImageMapControl.dll
+D:\BCA-5(A)\ImageMapControl\ImageMapControl\obj\Debug\ImageMapControl.pdb
+D:\BCA-5(A)\ImageMapControl\ImageMapControl\obj\Debug\ImageMapControl.csprojResolveAssemblyReference.cache

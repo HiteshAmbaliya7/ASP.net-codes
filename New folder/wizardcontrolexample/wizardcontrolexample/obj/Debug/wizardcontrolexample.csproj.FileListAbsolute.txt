@@ -1,0 +1,5 @@
+D:\BCA-5(A)\wizardcontrolexample\wizardcontrolexample\bin\wizardcontrolexample.dll
+D:\BCA-5(A)\wizardcontrolexample\wizardcontrolexample\bin\wizardcontrolexample.pdb
+D:\BCA-5(A)\wizardcontrolexample\wizardcontrolexample\obj\Debug\wizardcontrolexample.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\wizardcontrolexample\wizardcontrolexample\obj\Debug\wizardcontrolexample.dll
+D:\BCA-5(A)\wizardcontrolexample\wizardcontrolexample\obj\Debug\wizardcontrolexample.pdb

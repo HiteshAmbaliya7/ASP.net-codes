@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/images/1.png</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>First Adv</AlternateText>
+    <Impression>50</Impression>
+    <Keywords>First</Keywords>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/2.png</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>Second Adv</AlternateText>
+    <Impression>30</Impression>
+    <Keywords>Second</Keywords>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/images/3.png</ImageUrl>
+    <NavigateUrl>#</NavigateUrl>
+    <AlternateText>Third Adv</AlternateText>
+    <Impression>20</Impression>
+    <Keywords>Third</Keywords>
+  </Ad>
+</Advertisements>

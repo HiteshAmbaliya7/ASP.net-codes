@@ -1,0 +1,5 @@
+D:\BCA-5(A)\RegularExpressionValidatorControl\RegularExpressionValidatorControl\bin\RegularExpressionValidatorControl.dll
+D:\BCA-5(A)\RegularExpressionValidatorControl\RegularExpressionValidatorControl\bin\RegularExpressionValidatorControl.pdb
+D:\BCA-5(A)\RegularExpressionValidatorControl\RegularExpressionValidatorControl\obj\Debug\RegularExpressionValidatorControl.csprojResolveAssemblyReference.cache
+D:\BCA-5(A)\RegularExpressionValidatorControl\RegularExpressionValidatorControl\obj\Debug\RegularExpressionValidatorControl.dll
+D:\BCA-5(A)\RegularExpressionValidatorControl\RegularExpressionValidatorControl\obj\Debug\RegularExpressionValidatorControl.pdb
